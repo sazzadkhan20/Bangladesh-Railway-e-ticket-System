@@ -53,7 +53,7 @@ Obtain your own copy of the project with:
 
 ```bash
 git clone https://github.com/sazzadkhan20/Bangladesh-Railway-e-ticket-System.git
-cd Railway-Ticket-Management-System
+cd Bangladesh-Railway-e-ticket-System
 ```
 
 ### Environment Setup
