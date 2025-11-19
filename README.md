@@ -10,6 +10,7 @@ This Java application provides a seamless e-ticket management experience for met
 - [Responsibilities](#responsibilities)
 - [Prerequisites](#prerequisites)
 - [Get Started](#get-started)
+- [Architecture/Technology](#Architecture/Technology)
 - [Features](#features)
 - [Technology Used](#technology-used)
 - [Feedback](#feedback)
